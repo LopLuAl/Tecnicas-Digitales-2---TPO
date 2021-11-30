@@ -1,0 +1,35 @@
+# Ignorar Todo
+*
+**/*
+
+
+# Excepto los tipos
+!*.gitignore
+!*.pptx
+!*.pdf
+!*.docx
+!*.xise
+!*.gise
+!*.vhd
+!*.h
+!*.c
+!*.project
+!*.cproject
+!*.mxproject
+!*.ioc
+!*.asm
+!*.lst
+!*.ld
+!*Makefile
+!*.s
+!*.sch
+!*.pro
+!*.kicad_pcb
+!*.net
+!*.lib
+!*.pdf
+!*.kicad_mod
+!*.zip
+!*.FCStd
+# Incluso si están en un subdirectorio (afecta a los anteriores tipos)
+!*/
